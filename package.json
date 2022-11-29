@@ -11,7 +11,7 @@
     "url": "git+https://github.com/comp426-2022-fall/a03-niharcv.git"
   },
   "author": "niharcv",
-  "license": "GPL-3.0-or-later",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/comp426-2022-fall/a03-niharcv/issues"
   },
